@@ -20,4 +20,4 @@ return {
 		ClassNum = 0,
 		costume = false
 		},
-	}
+	};
